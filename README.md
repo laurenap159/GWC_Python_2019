@@ -9,7 +9,8 @@ https://repl.it/languages/python3
 
 #### Python print string example:
 ```python
-smile = "My smile is beamin'"
+smile = """My smile is beamin'
+           My skin is gleamin'"""
 print smile
 ```
 
